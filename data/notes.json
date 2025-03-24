@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "name": "note1",
+      "text": "blah blah",
+      "url": "https://bbc.com",
+      "imagePath": "/data/image3.jpg",
+      "dateAdded": "2023-03-04",
+      "category": ""
+    },
+    {
+      "name": "note2",
+      "text": "",
+      "url": "https://x.com",
+      "imagePath": "",
+      "dateAdded": "2023-03-04",
+      "category": "personal"
+    },
+    {
+      "name": "note2",
+      "text": "",
+      "url": "",
+      "imagePath": "/data/image4.jpg",
+      "dateAdded": "2023-03-04",
+      "category": "personal"
+    }
+  ]
+}
